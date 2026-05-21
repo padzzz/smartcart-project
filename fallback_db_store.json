@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "_id": "fb_u_1779340567497",
+      "name": "Valued Customer",
+      "email": "customer@example.com",
+      "passwordHash": "",
+      "isAdmin": false
+    }
+  ],
+  "orders": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SmartCart – Professional E-Commerce",
+  "description": "A full-stack e-commerce platform with real-time inventory, authentication, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
